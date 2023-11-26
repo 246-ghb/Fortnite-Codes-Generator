@@ -1,0 +1,8 @@
+# clone the repo
+$ git clone https://github.com/Lzyen/Fortnite-Codes-Generator
+
+# change the working directory to Fortnite Codes Generator
+$ cd Fortnite-Codes-Generator
+
+# install the requirements
+$ python3 -m pip install -r requirements.txt
